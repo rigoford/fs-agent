@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <agent.api.version>2.8.9</agent.api.version>
+        <agent.api.version>2.9.9.58</agent.api.version>
         <slf4j.version>1.7.5</slf4j.version>
         <skipTests>false</skipTests>
     </properties>
@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit</artifactId>
-            <version>4.10.0.201712302008-r</version>
+            <version>5.1.0.201809111528-r</version>
         </dependency>
 
         <!-- SVN Connector -->
@@ -276,7 +276,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-ecr</artifactId>
-            <version>1.11.410</version>
+            <version>1.11.893</version>
         </dependency>
         <dependency>
             <groupId>com.sun.jersey</groupId>
