@@ -276,7 +276,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-ecr</artifactId>
-            <version>1.11.410</version>
+            <version>1.11.993</version>
         </dependency>
         <dependency>
             <groupId>com.sun.jersey</groupId>
