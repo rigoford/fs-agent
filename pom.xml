@@ -167,7 +167,7 @@
         <dependency>
             <groupId>org.redline-rpm</groupId>
             <artifactId>redline</artifactId>
-            <version>1.2.1</version>
+            <version>1.2.10</version>
         </dependency>
 
         <dependency>
@@ -276,7 +276,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-ecr</artifactId>
-            <version>1.11.410</version>
+            <version>1.12.229</version>
         </dependency>
         <dependency>
             <groupId>com.sun.jersey</groupId>
