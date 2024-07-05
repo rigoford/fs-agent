@@ -137,7 +137,7 @@
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-archiver</artifactId>
-            <version>2.2</version>
+            <version>4.10.0</version>
         </dependency>
 
         <!-- VIA test -->
@@ -264,7 +264,7 @@
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-archiver</artifactId>
-            <version>3.4</version>
+            <version>4.10.0</version>
         </dependency>
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
