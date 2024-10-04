@@ -137,7 +137,7 @@
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-archiver</artifactId>
-            <version>2.2</version>
+            <version>4.9.2</version>
         </dependency>
 
         <!-- VIA test -->
@@ -173,7 +173,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.4</version>
+            <version>2.14.0</version>
         </dependency>
 
         <!-- JSON Reader -->
@@ -264,7 +264,7 @@
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-archiver</artifactId>
-            <version>3.4</version>
+            <version>4.9.2</version>
         </dependency>
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
