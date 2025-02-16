@@ -59,7 +59,7 @@
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-core</artifactId>
-            <version>3.5.4</version>
+            <version>4.5.13</version>
         </dependency>
 
         <dependency>
@@ -276,7 +276,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-ecr</artifactId>
-            <version>1.11.410</version>
+            <version>1.12.781</version>
         </dependency>
         <dependency>
             <groupId>com.sun.jersey</groupId>
